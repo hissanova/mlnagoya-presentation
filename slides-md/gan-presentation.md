@@ -4,7 +4,7 @@ GAN と親しもう！
 
 ---
 
-## はじめに
+# はじめに
 
 
 ----
@@ -15,19 +15,65 @@ GAN と親しもう！
 
 ---
 
-## Menu
+# Menu
 
 
 ---
 
-## GAN とは
+# What is it?
 
 ----
 
-GAN = __**G**__ enerativ __**A**__ dversarial __**N**__ etwork
+## GAN = ***G*** enerativ ***A*** dversarial ***N*** etwork
       
+
+----
+
+## GAN = ***G*** enerativ ***A*** dversarial ***N*** etwork
+
+* Generative = 生成的
+* Adversarial = 敵対的
+* Network =　ネットワーク (ニューラルネットワークのこと)
+
+----
+
+## GAN = 敵対的生成ネットワーク
+
+----
+
+## GAN = 敵対的生成ネットワーク
+* Discriminator = 本物のデータか偽物のデータかを判別するネットワーク
+* Generator = Discriminator を騙すデータを生成するネットワーク
+* 2つのネットワークを敵対的に訓練させる（贋作者と鑑定士）
+
 
 ---
 
-## DCGAN を動かしてみよう
+# Algorithm
+
+
+----
+
+## 
+
+
+----
+
+# Gallery
+
+----
+
+## MNIST
+
+----
+
+## CelebA
+
+----
+
+## JIROU-KEI
+
+---
+
+# DCGAN を動かしてみよう
 
