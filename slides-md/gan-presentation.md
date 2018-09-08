@@ -24,7 +24,7 @@ GAN と親しもう！
 
 ----
 
-## GAN = ***G*** enerativ ***A*** dversarial ***N*** etwork
+## GAN = Generativ Adversarial Network
       
 
 ----
@@ -54,7 +54,19 @@ GAN と親しもう！
 
 ----
 
-## 
+## Model Definition
+
+
+----
+
+### Neural Networks
+
+
+----
+
+### Loss Function
+
+
 
 
 ----
@@ -75,5 +87,27 @@ GAN と親しもう！
 
 ---
 
-# DCGAN を動かしてみよう
+# Applications
+
+----
+
+## CycleGAN
+
+----
+
+## Progressive GAN
+
+----
+
+## SAGAN
+
+----
+
+## WaveGAN
+
+---
+
+# Demonstration
+
+---
 
